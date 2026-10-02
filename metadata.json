@@ -1,0 +1,12 @@
+{
+  "name": "MediLink",
+  "description": "AI Smart Emergency Medical Assistance Platform - Live nearby hospital & pharmacy finder, emergency SOS, ambulance tracking, doctor availability, AI health chatbot, and management dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
